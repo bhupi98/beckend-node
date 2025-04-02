@@ -1,0 +1,46 @@
+2025-04-02T11:35:47.662Z [INFO]: Server running on port 5000
+2025-04-02T11:35:47.683Z [ERROR]: Database connection failed Access denied for user ''@'localhost' (using password: YES)
+2025-04-02T11:38:07.023Z [INFO]: Server running on port 5000
+2025-04-02T11:38:07.037Z [ERROR]: Database connection failed Access denied for user ''@'localhost' (using password: YES)
+2025-04-02T11:40:42.030Z [INFO]: Server running on port 5000
+2025-04-02T11:40:42.045Z [ERROR]: Database connection failed Access denied for user ''@'localhost' (using password: YES)
+2025-04-02T11:41:09.861Z [INFO]: Server running on port 5000
+2025-04-02T11:41:09.876Z [ERROR]: Database connection failed Access denied for user ''@'localhost' (using password: YES)
+2025-04-02T11:43:31.150Z [INFO]: Server running on port 5000
+2025-04-02T11:43:31.165Z [ERROR]: Database connection failed Access denied for user ''@'localhost' (using password: YES)
+2025-04-02T11:44:31.654Z [INFO]: Server running on port 5000
+2025-04-02T11:44:31.669Z [ERROR]: Database connection failed Access denied for user ''@'localhost' (using password: YES)
+2025-04-02T11:44:44.235Z [INFO]: Server running on port 5000
+2025-04-02T11:44:44.249Z [ERROR]: Database connection failed Access denied for user ''@'localhost' (using password: YES)
+2025-04-02T11:44:59.762Z [INFO]: Server running on port 5000
+2025-04-02T11:44:59.777Z [ERROR]: Database connection failed Access denied for user ''@'localhost' (using password: YES)
+2025-04-02T11:45:12.510Z [INFO]: Server running on port 5000
+2025-04-02T11:45:12.524Z [ERROR]: Database connection failed Access denied for user ''@'localhost' (using password: YES)
+2025-04-02T11:47:28.566Z [INFO]: Server running on port 5000
+2025-04-02T11:47:28.581Z [ERROR]: Database connection failed Access denied for user ''@'localhost' (using password: YES)
+2025-04-02T11:50:42.595Z [INFO]: Server running on port 3306
+2025-04-02T11:50:42.609Z [INFO]: Database connected successfully
+2025-04-02T11:52:12.647Z [INFO]: Server running on port 3306
+2025-04-02T11:52:12.666Z [INFO]: Database connected successfully
+2025-04-02T11:52:32.039Z [INFO]: Server running on port 3306
+2025-04-02T11:52:32.055Z [INFO]: Database connected successfully
+2025-04-02T12:00:53.227Z [INFO]: Server running on port 9000
+2025-04-02T12:00:53.240Z [INFO]: Database connected successfully
+2025-04-02T12:10:30.856Z [INFO]: Server running on port 9000
+2025-04-02T12:10:30.872Z [INFO]: Database connected successfully
+2025-04-02T12:11:15.028Z [INFO]: Server running on port 9000
+2025-04-02T12:11:15.045Z [INFO]: Database connected successfully
+2025-04-02T12:12:02.525Z [INFO]: Server running on port 9000
+2025-04-02T12:12:02.538Z [INFO]: Database connected successfully
+2025-04-02T12:13:07.856Z [INFO]: Server running on port 9000
+2025-04-02T12:13:07.869Z [INFO]: Database connected successfully
+2025-04-02T12:13:50.698Z [INFO]: Server running on port 9000
+2025-04-02T12:13:50.712Z [INFO]: Database connected successfully
+2025-04-02T12:15:25.483Z [INFO]: Server running on port 9000
+2025-04-02T12:15:25.497Z [INFO]: Database connected successfully
+2025-04-02T12:15:30.275Z [ERROR]: Illegal arguments: string, undefined
+2025-04-02T12:17:05.211Z [ERROR]: Illegal arguments: string, undefined
+2025-04-02T12:17:13.741Z [INFO]: Server running on port 9000
+2025-04-02T12:17:13.755Z [INFO]: Database connected successfully
+2025-04-02T12:17:53.225Z [INFO]: Server running on port 9000
+2025-04-02T12:17:53.239Z [INFO]: Database connected successfully
